@@ -117,7 +117,7 @@ ul {
 /* --- Hero Section --- */
 .hero {
     height: 80vh;
-    background: linear-gradient(rgba(244, 247, 246, 0.9), rgba(244, 247, 246, 0.8)), url('tlo.jpg'); /* Opcjonalne tło */
+    background: linear-gradient(rgba(244, 247, 246, 0.9), rgba(244, 247, 246, 0.8)), url('img/tlo.jpg'); /* Opcjonalne tło */
     background-size: cover;
     background-position: center;
     display: flex;
